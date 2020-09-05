@@ -1,0 +1,6 @@
+{
+    "mailgun": {
+        "api_key": "TYPE YOUR API KEY HERE",
+        "domain": "type-your-domain-here.com"
+    }
+}
