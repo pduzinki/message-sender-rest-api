@@ -1,5 +1,5 @@
 ## About:
-This is a simple web app implementing Rest API to save and send email messages. Messages that are older then 5 minutes are deleted.
+This is a simple web app implementing Rest API to save and send email messages. Messages that are older than 5 minutes are deleted.
 
 ## Requirements:
 * Go v1.14.2 (or higher)
